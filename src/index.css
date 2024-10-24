@@ -1,0 +1,10 @@
+html {
+  background: #C1C6E0;
+}
+
+.app {
+  font-family: "Manrope", sans-serif;
+  background: url(./assets/background.png) top center / cover no-repeat;
+  min-height: 100vh;
+  padding: 32px 60px
+}
